@@ -1,7 +1,5 @@
-# yuzu_cmd-update082022
+# yuzu_fork_zeldatotk
 
-SDL2 from VulkanSDK v1.3.216.0
-Vulkan-Headers from VulkanSDK v1.3.216.0
-HEVC Decoder from FFMPEG 5.1
-
-copy and replace the recursive
+UPDATE ...
+SDL2 2.26.5
+FFMPEG 6.0
